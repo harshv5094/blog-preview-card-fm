@@ -19,11 +19,13 @@ export default function Home() {
             Learning
           </div>
 
-          <h3 className="text-md my-2 font-medium text-cus-gray-950">
+          <h3 className="text-md my-2 font-medium text-cus-gray-950 ">
             Published 21 Dec 2023
           </h3>
 
-          <h2 className="text-xl font-extrabold">HTML & CSS foundation</h2>
+          <h2 className="text-xl font-extrabold hover:text-cus-yellow">
+            HTML & CSS foundation
+          </h2>
 
           <p className="text-cus-gray-500">
             These languages are the backbone of every website, defining
